@@ -1,5 +1,9 @@
+@font-face {
+    font-family: boldly-missy;
+    src: url("../font/Boldly-Missy/BoldlyMissy.otf") format("opentype");
+}
 *{
-	font-family: "Trevor", "Comic Sans MS", "Comic Sans", sans-serif;
+	font-family: boldly-missy, sans-serif;
 	box-sizing: border-box;
 }
 
